@@ -1,6 +1,6 @@
 # Quick Notes Taking App
 
-<img src="./ss/1.png" width="200">
+<img src="./ss/1.png" width="1000">
 
 # Getting Started with Create React App
 
